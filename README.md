@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Soni.
 - 👀 I’m interested in working on Backend Development.
-- 🌱 I’m currently learning Web development.
+- 🌱 I’m currently learning Backend development.
 - 💞️ I’m looking to collaborate on Backend Development.
 - 📫 How to reach me : email: soniaryan2001@gmail.com
 
